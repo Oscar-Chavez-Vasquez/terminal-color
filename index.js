@@ -25,3 +25,11 @@ function mostrarEstado() {
   return;
 }
 mostrarEstado()
+// Función para simular un error
+function simularError() {
+  console.warn(chalk.yellow.bgYellow('⚠️  Advertencia: Se detectó un fallo en un subsistema. Intentando recuperar...'));
+  console.error(chalk.red.inverse('❌  Error: Fallo crítico. Imposible continuar. Iniciando protocolo de reinicio.'));
+  console.log(chalk.green.bgGreen('✅  Recuperación: El sistema se ha reiniciado y vuelve a estar operativo.'));
+}
+
+simularError();
