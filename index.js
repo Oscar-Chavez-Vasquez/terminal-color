@@ -16,6 +16,15 @@ function saludar(nombre) {
 // Prueba de función
 saludar("Equipo JS");
 
+
+// 
+function mostrarEstado() {
+    console.log(chalk.bgGreen('🎉 ¡El programa ha iniciado exitosamente! 🎉'));
+    console.info(chalk.bgBlue('🔧 El programa se está ejecutando 🔧'));
+    console.info(chalk.bgYellowBright('🎇 El programa finalizó exitosamente 🎇'));
+  return;
+}
+mostrarEstado()
 // Función para simular un error
 function simularError() {
   console.warn(chalk.yellow.bgYellow('⚠️  Advertencia: Se detectó un fallo en un subsistema. Intentando recuperar...'));
