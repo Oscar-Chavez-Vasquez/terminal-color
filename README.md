@@ -354,6 +354,7 @@ Un repositorio con:
     > “El .gitignore es como un filtro de café ☕: deja pasar solo lo importante.”
     > 
     </aside>
+- Nos ayudo a perder el miedo a usar la línea de comandos. Aprendimos que la practica y trabajo en equipo se pueden resolver errores y notar como funciona el sistema. Fue una experiencia que nos fortalece la confianza y la colaboración entre nuestro equipo 
     
     Si tienes mas dudas revisa [.gitignore](https://www.notion.so/Qu-es-gitignore-2a243a552bc28198b050fcb3a1e74381?pvs=21)
     
