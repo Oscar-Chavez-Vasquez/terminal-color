@@ -5,7 +5,7 @@ Etiquetas: Tutoriales
 Día: 3 de noviembre de 2025
 
 <aside>
-<img src="notion://custom_emoji/5f72e359-3b8d-45ab-83ad-6cb8c2bcb54d/2a14db47-a255-8096-96c5-007aa79c1e35" alt="notion://custom_emoji/5f72e359-3b8d-45ab-83ad-6cb8c2bcb54d/2a14db47-a255-8096-96c5-007aa79c1e35" width="40px" />
+<img src="/image.png" width="40px" />
 
 > 🧠 Objetivo: practicar comandos de terminal, instalación de dependencias con npm, uso de console, y trabajo colaborativo en Git.
 > 
